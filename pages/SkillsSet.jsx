@@ -6,7 +6,7 @@ const SkillsSet = () => {
     <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl m-3" >
     <div class="md:flex">
       <div class="md:shrink-0">
-        <Image class="h-48 w-full object-cover md:h-full md:w-48 m-3" src="https://source.unsplash.com/random/300×600/?coding,tech" alt="random coding picture from upsplash" width='300' height='600'/>
+        <Image class="h-48 w-full object-cover md:h-full md:w-48 m-3" src="https://jdwd40.tech/wp-content/uploads/2022/08/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg" alt="random coding picture from upsplash" width='300' height='600' className='rounded-md'/>
       </div>
       <div class="p-8">
         <div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">John Driscoll Skills Set</div>

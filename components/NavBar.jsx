@@ -28,13 +28,13 @@ const NavBar = () => {
         <div class="sm:ml-6">
           <div class="flex space-x-4">
           
-            <Link href="/" class="bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium">About me</Link>
+            <Link href="/" class="bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium">John Driscoll</Link>
 
             <Link href="/NcNews" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">NC News</Link>
 
             <Link href="/SkillsSet" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Skills Set</Link>
 
-            <Link href="#" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">GitHub</Link>
+            <Link href="https://github.com/jdwd40" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">GitHub</Link>
           </div>
         </div>
       </div>
