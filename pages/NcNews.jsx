@@ -13,7 +13,7 @@ const NcNews = () => {
       <div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Nc News Demo App</div>
       <a href="#" class="block mt-1 text-lg leading-tight font-medium text-black hover:underline">NC News, a Small Reddit Clone</a>
       <p class="mt-2 mb-2 text-slate-500">This app was built as part of my final project after finishing my web development course at northcoders. </p>
-      <p class="mt-2 mb-2 text-slate-500">It's a small reddit clone. A user can read news stories and comment on individual articles. They can also upvote articles and comments.</p>
+      <p class="mt-2 mb-2 text-slate-500">Nc News is a small reddit clone. A user can read news stories and comment on individual articles. They can also upvote articles and comments.</p>
     <Image src="https://jdwd40.tech/wp-content/uploads/2022/09/ncnews_pic.png" width="300" height="350" className='rounded-md'/>
     </div>
   </div>
