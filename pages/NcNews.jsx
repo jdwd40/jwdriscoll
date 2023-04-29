@@ -7,7 +7,7 @@ const NcNews = () => {
        <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl m-3" >
   <div class="md:flex">
     <div class="md:shrink-0">
-      <Image class="h-48 w-full object-cover md:h-full md:w-48" src="https://jdwd40.com/wp-content/uploads/2023/01/arnold-francisca-f77Bh3inUpE-unsplash.jpg" alt="random news pic from upspash"width='300' height='600' className='rounded-md'/>
+      <Image class="h-48 w-full object-cover md:h-full md:w-48" src="https://jdwd40.com/wp-content/uploads/2023/04/nikita-kachanovsky-OVbeSXRk_9E-unsplash.jpg" alt="random news pic from upspash"width='300' height='600' className='rounded-md'/>
     </div>
     <div class="p-8">
       <div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Nc News Demo App</div>
